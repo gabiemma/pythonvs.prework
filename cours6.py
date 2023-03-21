@@ -1,0 +1,9 @@
+#print(5==5)
+#print(188 != 130)
+x = 5
+y = 6
+if x == 5 and y != 6 :
+    print("panang curry")
+
+#print(5==5)
+#print(5==5)
